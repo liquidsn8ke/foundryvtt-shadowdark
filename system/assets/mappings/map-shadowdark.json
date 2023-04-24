@@ -1,5 +1,5 @@
 {
-	"shadowdark.monster": {
+	"shadowdark.core:monster": {
 		"sgVqRuCaadRK1P7R": {
 			"__MONSTER_NAME__": "Aboleth",
 			"actor": "modules/pf2e-tokens-bestiaries/portraits/aberrant/eldritch/alghollthu-master.webp",
@@ -43,6 +43,11 @@
 					"scaleY": 1.5
 				}
 			}
+		},
+		"wAJdtDMS8I5uQuoC": {
+			"__MONSTER_NAME__": "Ape",
+			"actor": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/gorilla.webp",
+			"token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/gorilla.webp"
 		},
 		"EJ94w4A9mb9ETSGA": {
 			"__MONSTER_NAME__": "Bat, Giant",
